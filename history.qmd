@@ -1,0 +1,38 @@
+---
+title: "School History · PCSS Alumni Archive"
+description: "A restored history of Port Credit High School and Port Credit Secondary School."
+---
+
+```{=html}
+<section class="page-hero history-hero"><div class="shell"><p class="eyebrow">A century of Port Credit</p><h1>Built, rebuilt<br>and remembered.</h1><p>A concise restoration of the school history published on the former alumni website.</p></div></section>
+
+<div class="section shell history-layout">
+<aside class="timeline-nav" aria-label="History sections"><p>Jump to</p><a href="#beginnings">1919</a><a href="#new-school">1929</a><a href="#thirties">1930s</a><a href="#forties">1940s</a><a href="#fifties">1950s</a><a href="#fire">The fire</a><a href="#mineola">1963</a><a href="#seventies">1970s</a><a href="#eighties">1980s</a><a href="#nineties">1990s</a></aside>
+
+<article class="history-article">
+<div class="provenance-note"><strong>Restored record</strong><p>This timeline is summarized from archived versions of pcssalumni.com. Dates and names remain subject to checking against the recovered source material.</p></div>
+
+<section id="beginnings" class="history-entry"><div class="history-year">1919</div><div><p class="eyebrow">The beginning</p><h2>A two-room continuation school</h2><p>Before Port Credit had a secondary school, local students travelled to Parkdale Collegiate in Toronto after Grade 8. Port Credit ratepayers responded by establishing a continuation school on Forest Avenue. Its first secondary classes occupied two rooms, with two teachers and 22 tuition-paying students.</p><p>The school grew quickly. A six-room addition arrived in 1926, and by 1928 enrolment had reached 217 students with a staff of six.</p></div></section>
+
+<section id="new-school" class="history-entry"><div class="history-year">1929</div><div><p class="eyebrow">Room to grow</p><h2>A new Port Credit High School</h2><p>Construction began on a purpose-built high school with ten classrooms, science laboratories, a library, a 500-seat auditorium, a gym, a circular track, a cafeteria and student lockers. It opened as the community entered the Great Depression.</p></div></section>
+
+<section id="thirties" class="history-entry"><div class="history-year">1930s</div><div><p class="eyebrow">School life</p><h2>Clubs, music and competition</h2><p>Enrolment rose from 283 students to more than 400. The Glee Club, Dramatic Society and orchestra became fixtures, while rugby, softball, basketball, hockey, track and gymnastics built the school’s athletic identity.</p></div></section>
+
+<section id="forties" class="history-entry"><div class="history-year">1940s</div><div><p class="eyebrow">Wartime and return</p><h2>A community changed by war</h2><p>Enrolment fell as students and teachers joined the war effort; 26 members of the school community lost their lives in active service. By 1947, enrolment had rebounded beyond 500. Music flourished, the student newspaper became <em>The High Light</em>, and new clubs appeared alongside the school’s own song.</p></div></section>
+
+<section id="fifties" class="history-entry"><div class="history-year">1950s</div><div><p class="eyebrow">A new name</p><h2>PCHS becomes PCSS</h2><p>The decade began with 675 students and 23 teachers. Rapid growth brought a new wing, more specialized rooms and a second gym. Port Credit High School became Port Credit Secondary School.</p></div></section>
+
+<section id="fire" class="history-entry feature-entry"><div class="history-year">1956</div><div><p class="eyebrow">October 18</p><h2>The fire—and the response</h2><p>A pre-dawn fire destroyed the auditorium, offices, guidance rooms, science laboratories and eleven classrooms. More than 100 firefighters from surrounding communities fought the blaze for eight hours. Records, books and personal belongings were lost.</p><p>Students arrived with mops and pails while crews still worked. Classes resumed the following Monday in borrowed spaces; within weeks, portables restored a regular timetable. Rebuilding was complete by spring 1957.</p></div></section>
+
+<section id="mineola" class="history-entry"><div class="history-year">1963</div><div><p class="eyebrow">A new campus</p><h2>The move to Mineola Road</h2><p>On May 13, students moved from Forest Avenue to the new three-storey building on Mineola Road East. Expanded technical shops, music facilities, gyms and a 700-seat auditorium supported a much larger student body and a broader curriculum.</p></div></section>
+
+<section id="seventies" class="history-entry"><div class="history-year">1970s</div><div><p class="eyebrow">New choices</p><h2>Programs, clubs and independence</h2><p>Computer science, film, theatre arts, journalism and marketing joined the timetable. Students travelled abroad and chose from clubs ranging from Model UN and Reach for the Top to equestrian, bowling, flying and outdoor activities.</p></div></section>
+
+<section id="eighties" class="history-entry"><div class="history-year">1980s</div><div><p class="eyebrow">Creative energy</p><h2>Re: Port Credit and the air-guitar era</h2><p>The student paper <em>Re: Port Credit</em> reached more than a thousand readers. Drama students toured to England and hosted visiting performers. An expanding ESL program reflected a more multicultural school.</p></div></section>
+
+<section id="nineties" class="history-entry"><div class="history-year">1990s</div><div><p class="eyebrow">Toward a new century</p><h2>Tradition and a wider world</h2><p>Long-standing events continued beside new courses and student-led causes. Amnesty International, Students Against Drunk Driving, United Colours and Project Earth reflected stronger social awareness. In January 1994, Prime Minister Jean Chrétien’s visit put PCSS in the national spotlight.</p></div></section>
+</article>
+</div>
+```
+
+

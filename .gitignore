@@ -1,0 +1,10 @@
+_site/
+legacy/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb
+

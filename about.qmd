@@ -1,0 +1,34 @@
+---
+title: "About · PCSS Alumni Archive"
+description: "About the independent PCSS Alumni digital preservation project."
+---
+
+<section class="page-hero"><div class="shell"><p class="eyebrow">About the project</p><h1>A mirror with<br>a memory.</h1><p>This site exists because a web address is temporary, but a community archive should be durable.</p></div></section>
+
+::: {.section .shell .about-layout}
+::: {.prose}
+## What this is
+
+The PCSS Alumni Digital Archive is an independent reconstruction of public material once hosted at pcssalumni.com. Its maintainable pages are written in Quarto Markdown (`.qmd`) and rendered to static HTML.
+
+## What has been recovered
+
+The original navigation, mission, yearbook catalogue, scholarship recipients and school history have been mapped. All 1,232 URLs in the Wayback inventory and all 195 surviving WordPress media attachments have been recovered locally. A preservation set of 69 valid yearbook editions has also been recovered: 1930, every year from 1951 through 2017, and separate junior and senior books for 2002.
+
+## How files are handled
+
+Large yearbooks and raw preservation captures stay outside Git history. The recovered yearbook masters total more than 4 GB, so the published catalogue can point to durable external files while the maintainable site remains small enough for GitHub Pages.
+
+## Accuracy, safety and privacy
+
+Historical pages are identified as restored or summarized. Advertising code, trackers, obsolete forms, stale contact details and unverified private information are not republished.
+
+## Relationship to the school
+
+This project is not an official website of Port Credit Secondary School or the Peel District School Board.
+:::
+
+<aside class="project-card"><p class="eyebrow">Archive principles</p><ol><li><span>01</span><div><strong>Preserve first</strong><p>Keep original files and provenance.</p></div></li><li><span>02</span><div><strong>Label clearly</strong><p>Separate restored history from current information.</p></div></li><li><span>03</span><div><strong>Stay portable</strong><p>Use static files with no database dependency.</p></div></li><li><span>04</span><div><strong>Respect people</strong><p>Do not revive stale personal data or forms.</p></div></li></ol></aside>
+:::
+
+

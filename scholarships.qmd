@@ -1,0 +1,73 @@
+---
+title: "Scholarships · PCSS Alumni Archive"
+description: "Recovered PCSS Alumni Association scholarship recipients and programme history."
+---
+
+<section class="page-hero"><div class="shell"><p class="eyebrow">Recovered alumni record</p><h1>Scholarships.</h1><p>Recipients and programme history preserved from the former alumni website.</p></div></section>
+
+::: {.section .shell .prose}
+
+## Alumni Association recipients
+
+The scholarship programme began in 2001 with a $500 award. It later grew to support university-bound, college-bound and community-leadership recipients.
+
+| Year | University or college recipients |
+|---:|---|
+| 2002 | Adrienne Kaminskyj |
+| 2003 | Yusra Khan; Diane Blonski |
+| 2004 | Tom McGee |
+| 2005 | Robin Baj |
+| 2006 | Vikram Somasundaram |
+| 2007 | Robyn Williams |
+| 2008 | Huda Al-Imari |
+| 2009 | Diana Zuccarelli-Pegoraro; John Thomas |
+| 2010 | Danielle Amirault; Jia Hui “Allen” Gou |
+| 2011 | Bailey Izzard; Andrew Andrade |
+| 2012 | Marina Welby; Riley Parratt |
+| 2013 | Tiffany Dang; Victoria Ikeno |
+| 2014 | Farah Hasan; Alnoor Gowani |
+| 2015 | Molly Cowls; Shanice Hibbert |
+
+## Terry Garbutt Memorial Scholarship
+
+This award commemorated Alumni Association founder Terry Garbutt and recognized initiative, innovation and leadership in the school and community.
+
+| Year | Recipient |
+|---:|---|
+| 2011 | Andrew Andrade |
+| 2012 | Eric Zheng |
+| 2013 | Sarah Walji |
+| 2014 | Vishal Kuo |
+| 2015 | Ruqaiyah Baksh |
+
+## SciTech Scholarship
+
+| Year | Recipient |
+|---:|---|
+| 2009 | Justin Brown; Nathan D’Souza |
+| 2010 | Christopher Lomond |
+| 2011 | Thai-Son Tang |
+
+## Later recovered recipients
+
+These records came from the surviving WordPress pages and their associated media library. Award categories are shown where the page text survives.
+
+| Year | Recovered recipients |
+|---:|---|
+| 2016 | Bryanna Manson — College; Joe Mattekatt — University; Laura Paradi — Terry Garbutt Memorial |
+| 2017 | Rohan Dadak — University; Sean Robinson — College; Zahra Hasan — Terry Garbutt Memorial |
+| 2018 | Jordan Hans — College; Jessica Tran and Kaitlyn Wilcox — University; Hareem Syed — Terry Garbutt Memorial |
+| 2019 | Hailey Wilson-Kay — College; Massa Mohamed Ali — University; Shrey Jain — Terry Garbutt Memorial |
+| 2020 | Recipient details have not been recovered; the page survives but is empty. |
+| 2021 | Lauren Rowe; Natalya Grant; Vivek Bhadwaj |
+| 2022 | Deven MacEwen-Daljit; Korly Regan; Swara Bangali |
+| 2023 | Alexandra “Sasha” Pirner; Jackson Stumpf; Oliva Rose |
+| 2024 | Hamza Soofi; Sara Markham; Sharon Kim |
+
+::: {.provenance-note}
+**Preservation note.** Earlier names were checked against archived recipient pages. Later names were recovered from the live WordPress API, surviving page text and same-site media metadata. The live installation contains an unrelated mobile redirect, which has been excluded from this mirror.
+:::
+
+:::
+
+

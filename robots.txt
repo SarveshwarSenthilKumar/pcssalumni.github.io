@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pcssalumni.github.io/sitemap.xml
+

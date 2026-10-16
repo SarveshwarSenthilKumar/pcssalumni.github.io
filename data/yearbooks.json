@@ -1,0 +1,571 @@
+{
+  "generated": "2026-10-16T03:02:30.092Z",
+  "description": "Port Credit High School / Port Credit Secondary School yearbook catalogue recovered from pcssalumni.com.",
+  "books": [
+    {
+      "key": "1930",
+      "year": 1930,
+      "title": "1930 yearbook",
+      "school": "PCHS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20220505212957id_/http://pcssalumni.com/PDF/YB-1930.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "1951",
+      "year": 1951,
+      "title": "1951 yearbook",
+      "school": "PCHS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1952",
+      "year": 1952,
+      "title": "1952 yearbook",
+      "school": "PCHS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1953",
+      "year": 1953,
+      "title": "1953 yearbook",
+      "school": "PCHS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1954",
+      "year": 1954,
+      "title": "1954 yearbook",
+      "school": "PCHS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1955",
+      "year": 1955,
+      "title": "1955 yearbook",
+      "school": "PCHS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1956",
+      "year": 1956,
+      "title": "1956 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1957",
+      "year": 1957,
+      "title": "1957 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1958",
+      "year": 1958,
+      "title": "1958 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1959",
+      "year": 1959,
+      "title": "1959 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1960",
+      "year": 1960,
+      "title": "1960 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1961",
+      "year": 1961,
+      "title": "1961 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1962",
+      "year": 1962,
+      "title": "1962 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1963",
+      "year": 1963,
+      "title": "1963 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20210801134519id_/http://www.pcssalumni.com/PDF/YB-1963.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "1964",
+      "year": 1964,
+      "title": "1964 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1965",
+      "year": 1965,
+      "title": "1965 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1966",
+      "year": 1966,
+      "title": "1966 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1967",
+      "year": 1967,
+      "title": "1967 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1968",
+      "year": 1968,
+      "title": "1968 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1969",
+      "year": 1969,
+      "title": "1969 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1970",
+      "year": 1970,
+      "title": "1970 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1971",
+      "year": 1971,
+      "title": "1971 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1972",
+      "year": 1972,
+      "title": "1972 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1973",
+      "year": 1973,
+      "title": "1973 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1974",
+      "year": 1974,
+      "title": "1974 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1975",
+      "year": 1975,
+      "title": "1975 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1976",
+      "year": 1976,
+      "title": "1976 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1977",
+      "year": 1977,
+      "title": "1977 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1978",
+      "year": 1978,
+      "title": "1978 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1979",
+      "year": 1979,
+      "title": "1979 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1980",
+      "year": 1980,
+      "title": "1980 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1981",
+      "year": 1981,
+      "title": "1981 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1982",
+      "year": 1982,
+      "title": "1982 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1983",
+      "year": 1983,
+      "title": "1983 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1984",
+      "year": 1984,
+      "title": "1984 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1985",
+      "year": 1985,
+      "title": "1985 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1986",
+      "year": 1986,
+      "title": "1986 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1987",
+      "year": 1987,
+      "title": "1987 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1988",
+      "year": 1988,
+      "title": "1988 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1989",
+      "year": 1989,
+      "title": "1989 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1990",
+      "year": 1990,
+      "title": "1990 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1991",
+      "year": 1991,
+      "title": "1991 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1992",
+      "year": 1992,
+      "title": "1992 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1993",
+      "year": 1993,
+      "title": "1993 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1994",
+      "year": 1994,
+      "title": "1994 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1995",
+      "year": 1995,
+      "title": "1995 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1996",
+      "year": 1996,
+      "title": "1996 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1997",
+      "year": 1997,
+      "title": "1997 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "1998",
+      "year": 1998,
+      "title": "1998 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20230609073702id_/http://pcssalumni.com/PDF/YB-1998.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "1999",
+      "year": 1999,
+      "title": "1999 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2000",
+      "year": 2000,
+      "title": "2000 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2001",
+      "year": 2001,
+      "title": "2001 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2002-junior",
+      "year": 2002,
+      "edition": "Junior yearbook",
+      "title": "2002 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20130718022050id_/http://www.pcssalumni.com:80/PDF/YB-2002-J.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "2002-senior",
+      "year": 2002,
+      "edition": "Senior yearbook",
+      "title": "2002 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20130718022113id_/http://www.pcssalumni.com:80/PDF/YB-2002-S.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "2003",
+      "year": 2003,
+      "title": "2003 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20230608180151id_/http://pcssalumni.com/PDF/YB-2003.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "2004",
+      "year": 2004,
+      "title": "2004 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2005",
+      "year": 2005,
+      "title": "2005 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2006",
+      "year": 2006,
+      "title": "2006 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2007",
+      "year": 2007,
+      "title": "2007 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2008",
+      "year": 2008,
+      "title": "2008 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2009",
+      "year": 2009,
+      "title": "2009 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2010",
+      "year": 2010,
+      "title": "2010 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2011",
+      "year": 2011,
+      "title": "2011 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2012",
+      "year": 2012,
+      "title": "2012 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20201109024943id_/http://pcssalumni.com/PDF/YB-2012.pdf",
+      "note": "Verified Wayback capture"
+    },
+    {
+      "key": "2013",
+      "year": 2013,
+      "title": "2013 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2014",
+      "year": 2014,
+      "title": "2014 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2015",
+      "year": 2015,
+      "title": "2015 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Preservation master verified locally; public hosting is pending."
+    },
+    {
+      "key": "2016",
+      "year": 2016,
+      "edition": "Recovered edition",
+      "title": "2016 yearbook",
+      "school": "PCSS",
+      "state": "preserved",
+      "note": "Verified 80-page preservation master recovered locally; public hosting is pending"
+    },
+    {
+      "key": "2017",
+      "year": 2017,
+      "edition": "Recovered edition",
+      "title": "2017 yearbook",
+      "school": "PCSS",
+      "state": "wayback",
+      "url": "https://web.archive.org/web/20230621015634id_/http://pcssalumni.com/PDF/YB-2017.pdf",
+      "note": "Verified 163-page Wayback capture; preservation master is 1.51 GiB"
+    }
+  ]
+}
+

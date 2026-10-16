@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - yearbooks.qmd
+    - scholarships.qmd
+    - history.qmd
+    - archive.qmd
+    - about.qmd
+    - 404.qmd
+  resources:
+    - assets/**
+    - data/yearbooks.json
+    - robots.txt
+    - sitemap.xml
+
+website:
+  title: "PCSS Alumni Digital Archive"
+  navbar: false
+  sidebar: false
+
+format:
+  html:
+    lang: en-CA
+    theme: none
+    css: assets/styles.css
+    toc: false
+    title-block-style: none
+    include-in-header: includes/head.html
+    include-before-body: includes/header.html
+    include-after-body: includes/footer.html
+
+

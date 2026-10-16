@@ -1,0 +1,28 @@
+{
+  "verifiedOn": "2026-10-15",
+  "yearbooks": {
+    "catalogueEditions": 69,
+    "recoveredEditions": 69,
+    "validPdfEditions": 69,
+    "totalBytes": 4149448056,
+    "totalPages": 9226,
+    "complete": true,
+    "range": "1930 and 1951–2017, with separate junior and senior editions for 2002"
+  },
+  "liveWordPress": {
+    "pages": 75,
+    "posts": 0,
+    "mediaRecords": 195,
+    "mediaFilesRecovered": 195
+  },
+  "audio": {
+    "recordingsRecovered": 8
+  },
+  "wayback": {
+    "inventoryUrls": 1232,
+    "recoveredUrls": 1232,
+    "unresolvedUrls": 0,
+    "status": "inventory-recovered"
+  }
+}
+
