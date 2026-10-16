@@ -9,7 +9,7 @@ description: "A community-built digital archive for Port Credit High School and 
     <div class="hero-copy reveal">
       <p class="eyebrow">Port Credit, Ontario · Est. 1919</p>
       <h1>Our school story,<br><em>kept in reach.</em></h1>
-      <p class="lede">A new home for the photographs, yearbooks and memories once collected at pcssalumni.com—preserved by alumni, for alumni.</p>
+      <p class="lede">A new home for the photographs, yearbooks and memories once collected at pcssalumni.com, preserved by alumni, for alumni.</p>
       <div class="hero-actions"><a class="button button-primary" href="yearbooks.html">Browse the yearbooks <span aria-hidden="true">→</span></a><a class="button button-quiet" href="history.html">Explore our history</a></div>
     </div>
     <div class="memory-stack reveal" aria-label="A stack of stylized Port Credit yearbooks">
