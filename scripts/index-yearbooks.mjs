@@ -7,6 +7,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const yearbookDir = path.join(root, 'yearbooks');
 const dataDir = path.join(root, 'data');
 const sourcesPath = path.join(dataDir, 'yearbook-sources.json');
+const driveLinksPath = path.join(dataDir, 'yearbook-drive-links.json');
 const preservationPath = path.join(dataDir, 'preservation-status.json');
 const outputPath = path.join(dataDir, 'yearbooks.json');
 
@@ -53,6 +54,7 @@ async function main() {
   await fs.mkdir(dataDir, { recursive: true });
   await fs.mkdir(yearbookDir, { recursive: true });
   const sources = JSON.parse(await fs.readFile(sourcesPath, 'utf8').catch(() => '{}'));
+  const driveLinks = JSON.parse(await fs.readFile(driveLinksPath, 'utf8').catch(() => '{}'));
   const preservation = JSON.parse(await fs.readFile(preservationPath, 'utf8').catch(() => '{}'));
   const localFiles = new Map();
   for (const file of await walk(yearbookDir)) {
@@ -69,6 +71,7 @@ async function main() {
     const filename = source.originalFilename || defaultFilename(book);
     const school = book.year < 1956 ? 'PCHS' : 'PCSS';
     if (local) return { ...book, title: `${book.year} yearbook`, school, state: 'local', ...local };
+    if (driveLinks[book.key]) return { ...book, title: `${book.year} yearbook`, school, state: 'remote', url: driveLinks[book.key], note: 'Public Google Drive preservation copy.' };
     if (source.url) return { ...book, title: `${book.year} yearbook`, school, state: source.state || 'remote', url: source.url, note: source.note || undefined };
     if (preservation.yearbooks?.complete) return { ...book, title: `${book.year} yearbook`, school, state: 'preserved', note: source.note || 'Preservation master verified locally; public hosting is pending.' };
     return { ...book, title: `${book.year} yearbook`, school, state: 'missing', note: 'The catalogue entry survives, but Wayback did not preserve this PDF.' };

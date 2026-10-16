@@ -5,8 +5,7 @@
   const search = document.querySelector('#yearbook-search');
   const filters = document.querySelector('#decade-filters');
   const count = document.querySelector('#result-count');
-  const colours = ['#163a63', '#7b3f42', '#4f5e3b', '#67517a', '#2d6570', '#8b6631'];
-  const publicCollectionUrl = 'https://drive.google.com/drive/folders/1Vk3Y73NkpNuCZWsKTB608Wx1Bx-uhY7Q';
+  const colours = ['#213387', '#4457a6', '#42517f', '#303f79', '#5869ad', '#1d2c70'];
   let books = [];
   let activeDecade = 'all';
 
@@ -30,12 +29,10 @@
     }
     grid.innerHTML = shown.map((book, index) => {
       const state = book.state || 'missing';
-      const label = state === 'local' ? 'On this mirror' : state === 'remote' ? 'Preservation copy' : state === 'wayback' ? 'Wayback copy' : state === 'preserved' ? 'Public Drive collection' : 'Awaiting file';
+      const label = state === 'local' ? 'On this mirror' : state === 'remote' ? 'Google Drive copy' : state === 'wayback' ? 'Wayback copy' : state === 'preserved' ? 'Preserved copy' : 'Awaiting file';
       const action = book.url
         ? `<a href="${escapeHtml(book.url)}" ${state !== 'local' ? 'rel="external"' : ''}>Open yearbook <span aria-hidden="true">↗</span></a>`
-        : state === 'preserved'
-          ? `<a href="${publicCollectionUrl}" rel="external">Open public collection <span aria-hidden="true">↗</span></a>`
-          : '<button type="button" disabled>Not yet recovered</button>';
+        : '<button type="button" disabled>Link not available</button>';
       return `<article class="yearbook-card" data-state="${state}" style="--card-color:${colours[index % colours.length]}">
         <div class="card-top"><span>${escapeHtml(book.school || 'PCSS')}</span><span class="yearbook-status"><i></i>${label}</span></div>
         <h2>${book.year}</h2><p>${escapeHtml(book.edition || book.title || 'Yearbook')}</p>${action}</article>`;
