@@ -2,6 +2,8 @@
 
 Reviewed: 2026-10-16. Scope: the entire repository, including Quarto pages, shared assets, catalogue data, recovery scripts, documentation and deployment workflow.
 
+Security follow-up on 2026-10-16: the subsequent redirect investigation implemented per-hop recovery restrictions (19), catalogue URL/type validation (23), pull-request security/build validation (24), pinned Quarto/Python CI versions (part of 26), and build subprocess error handling (27). See [SECURITY.md](SECURITY.md) for verified findings, implemented protections, checks and the separate legacy-host remediation still required. The numbered findings below preserve the original review evidence; this update supersedes their pre-fix descriptions where applicable.
+
 This is an improvement backlog, not a record of implemented fixes. Findings come from local source inspection. External links, remote permissions and preservation masters were not independently verified. A rendered build could not be checked because Quarto is not installed in the current shell. Priorities: **P1** = correctness, preservation or access; **P2** = usability and maintainability; **P3** = enhancement.
 
 ## Publishing and catalogue correctness
