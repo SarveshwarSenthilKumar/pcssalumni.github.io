@@ -16,7 +16,7 @@ description: "Recovery index for the former pcssalumni.com website."
 </div>
 
 ::: {.notice .wide}
-**Recovery status.** All 1,232 URLs in the Wayback inventory have been recovered locally, along with 75 surviving WordPress pages and 195 media attachments. All 69 known yearbook editions through 2017 have also been recovered and validated. These preservation masters remain outside Git history while the material is reviewed and prepared for safe publication.
+**Recovery status.** All 1,232 URLs in the Wayback inventory have been recovered locally, along with 75 surviving WordPress pages and 195 media attachments. All 69 known yearbook editions through 2017 have also been recovered and validated. The yearbook preservation masters remain outside Git history and are available in the [public Google Drive collection](https://drive.google.com/drive/folders/1Vk3Y73NkpNuCZWsKTB608Wx1Bx-uhY7Q).
 :::
 :::
 
