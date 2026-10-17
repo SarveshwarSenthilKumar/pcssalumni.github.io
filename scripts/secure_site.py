@@ -20,8 +20,9 @@ QUARTO_SCRIPTS = {
 }
 CSP_MARKER = '<meta http-equiv="Content-Security-Policy"'
 # Reviewed initialization produced by the pinned Quarto 1.10.19 renderer for
-# this project. A matching element ID alone must not authorize injected code.
-QUARTO_INITIALIZER_SHA256 = '0b71eb77b32b63836dceed744d5e8814d3ed9e3cf8015a076698ab50ed8e692b'
+# this project with anchor-sections disabled. A matching element ID alone must
+# not authorize injected code.
+QUARTO_INITIALIZER_SHA256 = '6156488a629d9ca1b6d3f8ec4f2e8f6bcb83ff6c18e477cad120c423bfd278c1'
 
 
 def safe_reference(value):
