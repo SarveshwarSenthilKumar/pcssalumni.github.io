@@ -54,10 +54,10 @@ These records came from the surviving WordPress pages and their associated media
 
 | Year | Recovered recipients |
 |---:|---|
-| 2016 | Bryanna Manson — College; Joe Mattekatt — University; Laura Paradi — Terry Garbutt Memorial |
-| 2017 | Rohan Dadak — University; Sean Robinson — College; Zahra Hasan — Terry Garbutt Memorial |
-| 2018 | Jordan Hans — College; Jessica Tran and Kaitlyn Wilcox — University; Hareem Syed — Terry Garbutt Memorial |
-| 2019 | Hailey Wilson-Kay — College; Massa Mohamed Ali — University; Shrey Jain — Terry Garbutt Memorial |
+| 2016 | Bryanna Manson (College); Joe Mattekatt (University); Laura Paradi (Terry Garbutt Memorial) |
+| 2017 | Rohan Dadak (University); Sean Robinson (College); Zahra Hasan (Terry Garbutt Memorial) |
+| 2018 | Jordan Hans (College); Jessica Tran and Kaitlyn Wilcox (University); Hareem Syed (Terry Garbutt Memorial) |
+| 2019 | Hailey Wilson-Kay (College); Massa Mohamed Ali (University); Shrey Jain (Terry Garbutt Memorial) |
 | 2020 | Recipient details have not been recovered; the page survives but is empty. |
 | 2021 | Lauren Rowe; Natalya Grant; Vivek Bhadwaj |
 | 2022 | Deven MacEwen-Daljit; Korly Regan; Swara Bangali |

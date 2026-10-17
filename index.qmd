@@ -9,7 +9,7 @@ description: "A community-built digital archive for Port Credit High School and 
     <div class="hero-copy reveal">
       <p class="eyebrow">Port Credit, Ontario · Est. 1919</p>
       <h1>Our school story,<br><em>kept in reach.</em></h1>
-      <p class="lede">A new home for the photographs, yearbooks and memories once collected at pcssalumni.com—preserved by alumni, for alumni.</p>
+      <p class="lede">A new home for the photographs, yearbooks and memories once collected at pcssalumni.com, preserved by alumni, for alumni.</p>
       <div class="hero-actions"><a class="button button-primary" href="yearbooks.html">Browse the yearbooks <span aria-hidden="true">→</span></a><a class="button button-quiet" href="history.html">Explore our history</a></div>
     </div>
     <div class="memory-stack reveal" aria-label="A stack of stylized Port Credit yearbooks">
@@ -37,7 +37,6 @@ description: "A community-built digital archive for Port Credit High School and 
 
 <section class="history-band"><div class="shell history-grid"><div class="year-stamp reveal"><span>Since</span><strong>1919</strong><small>Port Credit</small></div><div class="history-copy reveal"><p class="eyebrow">A century in Port Credit</p><h2>From two rooms and 22 students to generations of Warriors.</h2><p>The school began as a continuation school on Forest Avenue, survived the devastating fire of 1956, and moved to Mineola Road in 1963. Its story lives in the records people chose to save.</p><a class="text-link" href="history.html">Read the school timeline <span aria-hidden="true">→</span></a></div></div></section>
 
-<section class="section shell mission-grid"><div class="quote-card reveal"><span class="quote-mark" aria-hidden="true">“</span><blockquote>May the light never fail.</blockquote><p>Lux Nunquam Desit · PCSS motto</p></div><div class="mission-copy reveal"><p class="eyebrow">Why this mirror exists</p><h2>Websites disappear. Community history should not.</h2><p>This independent mirror is rebuilding the public alumni archive from saved files, the surviving live site and Internet Archive captures. Recovered material is cleaned of advertising and obsolete tracking code.</p><div class="status-line"><span class="status-dot"></span><span><strong>Restoration in progress</strong><br>Catalogue complete; legacy pages and files are being recovered.</span></div><a class="button button-outline" href="about.html">How the archive works</a></div></section>
 ```
 
 
